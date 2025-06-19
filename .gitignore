@@ -1,0 +1,10 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# uploads folder (user uploads, not code)
+uploads/
+
+# Virtual env folder (if you use one)
+venv/
+.env
