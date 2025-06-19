@@ -1,4 +1,4 @@
-# Number & Shape Identifier (Flask)
+<img width="1440" alt="Screenshot 2025-06-19 at 11 18 58 AM" src="https://github.com/user-attachments/assets/e3f66715-5555-4855-b67f-eeeef7d2bc7c" /># Number & Shape Identifier (Flask)
 
 A simple Flask web app that loads a Keras `.h5` model and lets you upload an image to predict digits (0–9) and shapes (rectangle, round, triangle).
 
@@ -61,10 +61,15 @@ pip install flask tensorflow pillow werkzeug
 ## 🖼️ Screenshots
 
 1. **Upload Form**  
-   ![Upload Form](/Users/rusith/Desktop/ml/Screenshot 2025-06-19 at 11.18.58 AM.png)
+   ![Upload Form]
+   <img width="1440" alt="Screenshot 2025-06-19 at 11 18 58 AM" src="https://github.com/user-attachments/assets/56565e5f-9ba9-45d1-ac68-e52f11ae39ee" />
 
-2. **Prediction Result**  
-   ![Result Screen](/Users/rusith/Desktop/ml/Screenshot 2025-06-19 at 11.39.19 AM.png)
+
+3. **Prediction Result**  
+   ![Result Screen]
+   <img width="1440" alt="Screenshot 2025-06-19 at 11 39 19 AM" src="https://github.com/user-attachments/assets/a0951f3c-e45c-452a-833b-eae3698ea603" />
+
+   
 
 ---
 
